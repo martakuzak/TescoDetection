@@ -1,0 +1,4 @@
+TescoDetection
+==============
+
+Rozpoznawanie logo TESCO
