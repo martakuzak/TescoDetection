@@ -1,0 +1,69 @@
+﻿Build started 2014-06-10 08:11:31.
+     1>Project "D:\POBR\Projekt\szkielet_VS2012\szkielet_VS2012\TescoDetection\DIBLOOK.vcxproj" on node 2 (Build target(s)).
+       Project file contains ToolsVersion="12.0". This toolset is unknown or missing. You may be able to resolve this by installing the appropriate .NET Framework for this toolset. Treating the project as if it had ToolsVersion="4.0".
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /D _AFXDLL /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"Stdafx.h" /Fp".\Debug/DIBLOOK.pch" /Fo".\Debug/" /Fd".\Debug/vc110.pdb" /FR".\Debug/" /Gd /TP /analyze- /errorReport:prompt dibdoc.cpp
+         dibdoc.cpp
+     1>d:\pobr\projekt\szkielet_vs2012\szkielet_vs2012\tescodetection\dibdoc.cpp(351): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>d:\pobr\projekt\szkielet_vs2012\szkielet_vs2012\tescodetection\dibdoc.cpp(355): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>d:\pobr\projekt\szkielet_vs2012\szkielet_vs2012\tescodetection\dibdoc.cpp(357): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>d:\pobr\projekt\szkielet_vs2012\szkielet_vs2012\tescodetection\dibdoc.cpp(359): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>d:\pobr\projekt\szkielet_vs2012\szkielet_vs2012\tescodetection\dibdoc.cpp(361): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>d:\pobr\projekt\szkielet_vs2012\szkielet_vs2012\tescodetection\dibdoc.cpp(363): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>d:\pobr\projekt\szkielet_vs2012\szkielet_vs2012\tescodetection\dibdoc.cpp(365): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>d:\pobr\projekt\szkielet_vs2012\szkielet_vs2012\tescodetection\dibdoc.cpp(367): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>d:\pobr\projekt\szkielet_vs2012\szkielet_vs2012\tescodetection\dibdoc.cpp(369): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>d:\pobr\projekt\szkielet_vs2012\szkielet_vs2012\tescodetection\dibdoc.cpp(371): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>d:\pobr\projekt\szkielet_vs2012\szkielet_vs2012\tescodetection\dibdoc.cpp(373): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>d:\pobr\projekt\szkielet_vs2012\szkielet_vs2012\tescodetection\dibdoc.cpp(375): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : see declaration of 'sprintf'
+     1>d:\pobr\projekt\szkielet_vs2012\szkielet_vs2012\tescodetection\dibdoc.cpp(521): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\pobr\projekt\szkielet_vs2012\szkielet_vs2012\tescodetection\dibdoc.cpp(527): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\pobr\projekt\szkielet_vs2012\szkielet_vs2012\tescodetection\dibdoc.cpp(537): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\pobr\projekt\szkielet_vs2012\szkielet_vs2012\tescodetection\dibdoc.cpp(547): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\pobr\projekt\szkielet_vs2012\szkielet_vs2012\tescodetection\dibdoc.cpp(557): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\pobr\projekt\szkielet_vs2012\szkielet_vs2012\tescodetection\dibdoc.cpp(651): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\pobr\projekt\szkielet_vs2012\szkielet_vs2012\tescodetection\dibdoc.cpp(657): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\pobr\projekt\szkielet_vs2012\szkielet_vs2012\tescodetection\dibdoc.cpp(661): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>d:\pobr\projekt\szkielet_vs2012\szkielet_vs2012\tescodetection\dibdoc.cpp(666): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\pobr\projekt\szkielet_vs2012\szkielet_vs2012\tescodetection\dibdoc.cpp(670): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>d:\pobr\projekt\szkielet_vs2012\szkielet_vs2012\tescodetection\dibdoc.cpp(674): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\pobr\projekt\szkielet_vs2012\szkielet_vs2012\tescodetection\dibdoc.cpp(678): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>d:\pobr\projekt\szkielet_vs2012\szkielet_vs2012\tescodetection\dibdoc.cpp(682): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\pobr\projekt\szkielet_vs2012\szkielet_vs2012\tescodetection\dibdoc.cpp(686): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>d:\pobr\projekt\szkielet_vs2012\szkielet_vs2012\tescodetection\dibdoc.cpp(793): warning C4244: '=' : conversion from 'short' to 'BYTE', possible loss of data
+     1>d:\pobr\projekt\szkielet_vs2012\szkielet_vs2012\tescodetection\dibdoc.cpp(794): warning C4244: '=' : conversion from 'short' to 'BYTE', possible loss of data
+     1>d:\pobr\projekt\szkielet_vs2012\szkielet_vs2012\tescodetection\dibdoc.cpp(795): warning C4244: '=' : conversion from 'short' to 'BYTE', possible loss of data
+     1>d:\pobr\projekt\szkielet_vs2012\szkielet_vs2012\tescodetection\dibdoc.cpp(1269): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug/DIBLOOK.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:".\Debug/DIBLOOK.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\DIBLOOK.lib" /MACHINE:X86 /SAFESEH .\Debug\diblook.res
+         .\Debug/dibapi.obj
+         .\Debug/dibdoc.obj
+         .\Debug/diblook.obj
+         .\Debug/dibview.obj
+         .\Debug/mainfrm.obj
+         .\Debug/myfile.obj
+         .\Debug/Object.obj
+         .\Debug/OutDoc.obj
+         .\Debug/parametr.obj
+         .\Debug/stdafx.obj
+     1>dibapi.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+         DIBLOOK.vcxproj -> D:\POBR\Projekt\szkielet_VS2012\szkielet_VS2012\TescoDetection\.\Debug\DIBLOOK.exe
+       BscMake:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\bscmake.exe /nologo /o".\Debug\DIBLOOK.bsc" .\Debug/dibapi.sbr .\Debug/dibdoc.sbr .\Debug/diblook.sbr .\Debug/dibview.sbr .\Debug/mainfrm.sbr .\Debug/myfile.sbr .\Debug/Object.sbr .\Debug/OutDoc.sbr .\Debug/parametr.sbr .\Debug/stdafx.sbr
+     1>Done Building Project "D:\POBR\Projekt\szkielet_VS2012\szkielet_VS2012\TescoDetection\DIBLOOK.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.64

@@ -1,0 +1,24 @@
+Program bazowy projektu CPOO
+
+Program ten powsta³ w wyniku przerobienia przyk³adu DibLook Microsoftu
+Zosta³ wzbogacony o nastêpuj¹ce w³aœciwoœci:
+1. Dodano funkcjê 'trace' wyœwietlajc¹ wydruki kontrolne 
+   do okna roboczego
+2. Dodano mechanizm robienia kopii okna aktualnego i 
+   wykonywania operacji na tej kopii CDibView::OperationOnCopy
+3. Dodano przyk³adow¹ operacjê CDibDoc::ConvertToGrayImage
+4. Dodano przyk³adow¹ operacjê CDibDoc::ConvertToBlockImage 
+   wykorzystuj¹c¹ Okno Dialogowe do pobrania argumentów 
+5. Dodano funkcje FreeDIBRows i  GetDIBRowsRGB 
+   do wygodnego dostêpu do pikseli obrazu.
+
+Ograniczenia:
+- Operuje tylko na plikach *.dib w formacie 24 bitowym.
+- Obrazy Monochromatyczne musz¹ byæ reprezentowane jako RGB z 
+  identycznymi sk³adowymi rgb.
+- punkt (0,0) znajduje siê w lewym dolnym rogu obrazu
+
+Definicja w³asnej operacji XXX:
+- dodaæ opcjê menu XXX w menu IDR_DIBTYPE
+- dodaæ funkcjê CDibDoc::ConvertToXXXImage
+- dodaæ wywo³anie tej funkcji z funkcji obs³ugi menu CDibView::OnXXX
