@@ -8,24 +8,25 @@ enum SIGN {
 	BLUE = 5,
 	NOTHING = -1
 };
+/**
+* @class Object klasa reprezentujaca obiekt w obrazie
+*/
 class Object
 {
 private:
-double M1;
-double M7;
-long m00;
+double M1; 
+long m00; //pole powierzchni
 int maxX;
 int maxY;
 int minY;
 int minX;
-int centerY;
+int centerY; //srodek ciezkosci
 int centerX;
 SIGN sign; 
 public:
 	Object(SIGN sig = NOTHING);
 	~Object(void);
 	void setM1(double m1) { M1 = m1; }
-	void setM7(double m7) { M7 = m7; }
 	void setXY(int minx, int maxx, int miny, int maxy) {
 		minX = minx;
 		maxX = maxx;
